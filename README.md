@@ -1,4 +1,4 @@
-# Justvihxn Docker VPS Platform
+# Justvihxn Docker Bot 
 
 Justvihxn is a Discord-based VPS/container management bot with WebSSH, resource controls, per-instance persistent storage, port forwarding, expiration, billing, and admin tooling.
 
